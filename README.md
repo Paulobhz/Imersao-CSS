@@ -1,2 +1,2 @@
-# Imerssao CSS
- Semana Imerssão CSS - Alura
+# Imersao CSS
+ Semana Imersão CSS - Alura
